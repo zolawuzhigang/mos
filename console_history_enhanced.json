@@ -1,0 +1,68 @@
+[
+  {
+    "question": "什么是人工智能？",
+    "answer": "人工智能（Artificial Intelligence，简称 AI）是计算机科学的一个分支，旨在开发能够模拟、延伸或扩展人类智能的系统或程序。这些系统可以执行通常需要人类智能的任务，例如学习、推理、问题解决、感知、语言理解和生成等。",
+    "use_mcp": true,
+    "timestamp": "2026-02-04T08:13:40.035687"
+  },
+  {
+    "question": "中国的首都是哪里？",
+    "answer": "中国的首都是北京。",
+    "use_mcp": false,
+    "timestamp": "2026-02-04T08:13:34.150494"
+  },
+  {
+    "question": "什么是人工智能？",
+    "answer": "人工智能（Artificial Intelligence，简称 AI）是指由人类设计和构建的系统或机器所展现出的智能行为。它能够执行通常需要人类智能才能完成的任务，如学习、推理、解决问题、识别图像或语音、理解语言等。目前的人工智能多为“弱人工智能”，即专注于特定任务（如语音助手、图像识别），而具备通用人类智能的“强人工智能”仍在研究探索中。",
+    "use_mcp": true,
+    "timestamp": "2026-02-04T07:06:34.968597"
+  },
+  {
+    "question": "中国的首都是哪里？",
+    "answer": "中国的首都是北京。",
+    "use_mcp": false,
+    "timestamp": "2026-02-04T07:06:26.025281"
+  },
+  {
+    "question": "什么是人工智能？",
+    "answer": "人工智能（Artificial Intelligence，简称 AI）是指由人类设计和构建的系统或机器所展现出的智能行为。它旨在模拟、延伸甚至扩展人类的智能能力，如学习、推理、规划、感知、语言理解和决策等。人工智能广泛应用于语音识别、图像处理、自然语言处理、自动驾驶、智能推荐等领域。",
+    "use_mcp": true,
+    "timestamp": "2026-02-04T06:40:45.502706"
+  },
+  {
+    "question": "中国的首都是哪里？",
+    "answer": "中国的首都是北京。",
+    "use_mcp": false,
+    "timestamp": "2026-02-04T06:40:38.410879"
+  },
+  {
+    "question": "什么是人工智能？",
+    "answer": "人工智能（Artificial Intelligence，简称 AI）是指由计算机系统所表现出的智能行为，旨在模拟、延伸或扩展人类的智能能力，例如学习、推理、识别、决策和语言理解等。",
+    "use_mcp": true,
+    "timestamp": "2026-02-04T06:39:05.204509"
+  },
+  {
+    "question": "中国的首都是哪里？",
+    "answer": "中国的首都是北京。",
+    "use_mcp": false,
+    "timestamp": "2026-02-04T06:38:58.197910"
+  },
+  {
+    "question": "什么是人工智能？",
+    "answer": "人工智能（Artificial Intelligence，简称 AI）是指由人类设计和构建的系统所表现出的智能行为。它旨在使机器能够模拟、延伸或扩展人类的智能，例如学习、推理、识别、理解语言、感知环境、解决问题和做出决策等。人工智能的目标是让机器能够执行通常需要人类智能才能完成的任务。",
+    "use_mcp": true,
+    "timestamp": "2026-02-04T06:37:49.832205"
+  },
+  {
+    "question": "中国的首都是哪里？",
+    "answer": "中国的首都是北京。",
+    "use_mcp": false,
+    "timestamp": "2026-02-04T06:37:43.463799"
+  },
+  {
+    "question": "??????????????",
+    "answer": "It looks like your message might be incomplete or just a series of question marks. Could you please clarify your question or provide more details? I'm here to help!",
+    "use_mcp": false,
+    "timestamp": "2026-02-04T06:37:31.389804"
+  }
+]

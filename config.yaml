@@ -1,0 +1,43 @@
+# MultiHop Agent Configuration
+
+# Neo4j Database Configuration
+neo4j:
+  uri: "bolt://localhost:7687"
+  user: "neo4j"
+  password: "password"
+
+# Retrieval Configuration
+retrieval:
+  contriever_model_path: null
+  top_k: 5
+  max_retries: 3
+
+# API Keys for External Validation
+api_keys:
+  ofac_api_key: ""
+  sec_api_key: ""
+  bing_api_key: "ac28737d39b94672b9793d3c015ace48"
+
+# API Token for Server Authentication
+api_token: "multihop_agent_token_2024"
+
+# Base Model Configuration (LLM)
+base_model:
+  api_url: "https://newapi.3173721.xyz/v1/chat/completions"
+  api_key: "sk-DwBE5H6xxCV6I7i0q8v6rq3ZHauPuSq6fWVerxu7gJ9DmQoz"
+  model_id: "qwen3-max"
+  temperature: 0.7
+  max_tokens: 2048
+  timeout: 60
+
+# Browser Configuration for Web Execution
+browser:
+  headless: true
+  timeout: 30
+  user_agent: "MultiHopAgent/1.0"
+
+# System Configuration
+system:
+  log_level: "INFO"
+  cache_enabled: true
+  cache_dir: "./cache"
